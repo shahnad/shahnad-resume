@@ -35,6 +35,37 @@ export const Resume = () => {
                           team collaboration to formulate and conceptualize corporate web presence.
                           Integrates knowledge of visual arts to develop functional, appealing,
                           custom-made web products and services.</p>
+                     
+                          <div class="row mt-3">
+                          <div class="col-12">
+                            <div class="card p-3 p-xl-4 pb-1 pb-xl-1">
+                              <div class="row">
+                                <div class="col-12 ps-3">
+                                  <h6>CONTACT</h6>
+                                </div>
+                              </div>
+                              <div class="row d-flex flex-wrap badge-tech-tag pe-3">
+                                <div class="col-auto ps-3 pe-0 mb-3">
+                                  <label class="badge w-100">
+                                   +91 8592932234  
+                                  </label>
+                                </div>
+                                <div class="col-auto ps-3 pe-0 mb-3">
+                                  <label class="badge w-100">
+                                   nshahnad90@gmail.com
+                                  </label>
+                                </div>
+                                 
+                                 
+                               
+                               
+                                </div>
+                               
+                              
+                            </div>
+                          </div>
+                        </div>
+
                         <div class="row mt-3">
                           <div class="col-12">
                             <div class="card p-3 p-xl-4 pb-1 pb-xl-1">
@@ -114,6 +145,9 @@ export const Resume = () => {
                             </div>
                           </div>
                         </div>
+
+
+
                         <div class="row my-5">
                           <div class="col-12">
                             <h4 class="mb-2">Overall Performance Rating</h4>
