@@ -2,7 +2,7 @@
   "name": "shahnad-resume",
   "version": "0.1.0",
   "private": true,
-  "deploy": "gh-pages -b main -d build",
+  "deploy": "gh-pages -b main -d build", 
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
